@@ -58,3 +58,21 @@ ahora tras tener creada nuestra maquina EC2 y tras haber accedido por medio de s
 docker run -d -p 35000:6000 --name calculadora richardug/parcial2:calculadora
 ```
 
+## Pruebas en EC2
+
+Para correr en EC2 debemos desplegar el enlace que nos brinda nuestra instancia de aws, en mi caso es ec2-52-91-188-244.compute-1.amazonaws.com, con protocolo ```http``` y a través del puerto 3500, del siguiente modo
+
+### atan
+
+```
+http://ec2-52-91-188-244.compute-1.amazonaws.com:35000/atan?value=
+```
+
+![](/img/atanaws.PNG)
+
+### sqrt
+```
+http://ec2-52-91-188-244.compute-1.amazonaws.com:35000/sqrt?value=
+```
+
+![](/img/sqrtaws.PNG)
