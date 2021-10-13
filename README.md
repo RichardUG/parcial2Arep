@@ -76,3 +76,18 @@ http://ec2-52-91-188-244.compute-1.amazonaws.com:35000/sqrt?value=
 ```
 
 ![](/img/sqrtaws.PNG)
+
+## Video funcionalidad
+
+Podemos descargar el dideo del siguiente enlace
+
+[Video funcionalidad en EC2](https://github.com/RichardUG/parcial2Arep/raw/master/video/funcionalidadaws.mp4)
+
+
+## Autor
+[Richard Santiago Urrea Garcia](https://github.com/RichardUG)
+
+## Licencia & Derechos de Autor
+**©** Richard Santiago Urrea Garcia, Estudiante de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
+
+Licencia bajo la [GNU General Public License](https://github.com/RichardUG/Arep-TallerHeroku/blob/master/LICENSE).
